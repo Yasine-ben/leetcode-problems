@@ -17,7 +17,7 @@ var romanToInt = function(s) {
 
     }
     
-    const arr = 
+    let arr 
 }
 
 console.log(romanToInt("IVII"))
